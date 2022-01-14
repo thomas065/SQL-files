@@ -1,0 +1,16 @@
+<mxfile host="65bd71144e">
+    <diagram id="tWbYV9_sc5OXlCPeQyGL" name="Page-1">
+        <mxGraphModel dx="3926" dy="2257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://itsourcecode.com/wp-content/uploads/2019/10/Attendance-Monitoring-System-Class-Diagram.png?ezimgfmt=rs:824x498/rscb25/ng:webp/ngcb25;" vertex="1" parent="1">
+                    <mxGeometry y="620" width="960.18" height="579.81" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://itsourcecode.com/wp-content/uploads/2018/10/Database-Design-for-Clinic-Management-System.png?ezimgfmt=rs:699x471/rscb25/ng:webp/ngcb25;" vertex="1" parent="1">
+                    <mxGeometry x="960" y="10" width="950" height="639.42" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
